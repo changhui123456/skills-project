@@ -1,4 +1,4 @@
 # skills-project
 
-[![Dashboard](http://manager.skills.topxtopx.com/dashboard-badge.png)](http://manager.skills.topxtopx.com)
+[![Dashboard](https://ljf-gitcode-dashboard.obs.cn-north-4.myhuaweicloud.com/dashboard-badge.png)](http://manager.skills.topxtopx.com)
 
