@@ -2,9 +2,11 @@
 id: huawei-cloud-eip-cost-optimizer
 name: huawei-cloud-eip-cost-optimizer
 description: |
+version: 1.0.0
   Huawei Cloud EIP (Elastic IP) cost optimization skill using Python SDK v2.
   Use this skill when the user wants to: (1) list and query EIPs across regions with detailed status, (2) identify idle/unbound EIPs and generate cost optimization reports, (3) set up idle EIP monitoring with webhook/email alerts, (4) generate HTML/JSON cost analysis reports, (5) maintain operation audit logs for compliance. **Read-only analysis only - NO bandwidth adjustment, tag management, or EIP release/deletion**.
   Trigger: user mentions "EIP cost optimization", "idle EIP analysis", "EIP audit", "cost report", "EIP status query", "EIP list", "EIP monitoring", "EIP alert", "cost analysis", "idle monitoring", "operation audit", "EIP 成本优化", "闲置 EIP 分析", "EIP 审计", "成本报告", "EIP 状态查询", "EIP 查询", "EIP 列表", "EIP 监控", "EIP 告警", "成本分析", "闲置监控", "操作审计"
+
 ---
 
 # Huawei Cloud EIP Cost Optimizer
