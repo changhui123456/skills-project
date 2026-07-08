@@ -1,6 +1,7 @@
 ---
 name: huawei-cloud-ges-graph
 description: |
+version: 1.0.0
   Provides access guide for Huawei Cloud Graph Database GES service.
   Covers Cypher queries, GQL queries, schema/label management,
   summary info queries, graph data editing and more. Use this skill when users
@@ -9,6 +10,7 @@ Trigger: Graph Database, 图数据库, Cypher查询, GES图, 图引擎, 使用Cy
   用Cypher查询图, GES图数据库操作, graph database, "query graph with Cypher", 查询图数据库, 在图数据库中发送语句,
   "Cypher查询", "图数据库GES", "GES图查询"
 tags: [huawei-cloud, ges, graph, python, nodejs]
+
 ---
 
 > **⚠️ Execution Method (Must Read): This skill executes queries via local Python or Node.js scripts under `scripts/`. Using direct API calls is prohibited.**
