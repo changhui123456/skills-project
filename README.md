@@ -1,4 +1,4 @@
 # skills-project
 
-[![Dashboard](http://manager.skills.topxtopx.com/dashboard-badge.svg)](http://manager.skills.topxtopx.com)
+[![Dashboard](http://manager.skills.topxtopx.com/dashboard-badge.png)](http://manager.skills.topxtopx.com)
 
