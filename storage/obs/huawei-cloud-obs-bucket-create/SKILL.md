@@ -2,7 +2,9 @@
 name: huawei-cloud-obs-bucket-create
 description: |
   Skill specialized for creating buckets on Huawei Cloud OBS. Use this skill when users need to create OBS buckets, set bucket properties, configure access permissions, or need guidance on the bucket creation process. Trigger conditions: "创建OBS桶", "华为云存储桶", "存储空间创建", "create OBS bucket", "Huawei Cloud storage bucket", "OBS bucket", "Huawei Cloud bucket", "storage creation" or when setting up Huawei Cloud object storage.
+version: 1.0.0
 tags: [huawei-cloud, obs, storage, bucket]
+
 ---
 
 # Huawei Cloud OBS Bucket Create Skill
