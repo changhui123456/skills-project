@@ -22,7 +22,7 @@ Setting up the DWS Autopilot MCP Server allows users to leverage LLM capabilitie
 
 ## 2. Features
 
-### 2.1 Tools
+### 2.1 Tools 3234
 DWS Autopilot MCP Server provides the following tools:
 
 1. **dws_autopilot_get_hosts**
