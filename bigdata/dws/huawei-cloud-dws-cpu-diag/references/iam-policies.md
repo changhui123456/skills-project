@@ -23,7 +23,7 @@
 | dws:metricData:get | `dws_autopilot_get_metric` |
 | dws:hostOverview:get | `dws_autopilot_get_hosts` |
 
-## Minimum Permission Policy JSON
+## Minimum Permission Policy JSON 234
 
 ```json
 {
