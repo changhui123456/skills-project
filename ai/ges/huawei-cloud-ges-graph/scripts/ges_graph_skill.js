@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * GES Graph Skill - Node.js Version
- * 华为云图引擎持久化版 (GES) SDK for Node.js
+ * 华为云图引擎持久化版 (GES) SDK for Node.js2332232322
  * 支持Cypher查询、GQL查询、节点/边操作、导入导出等
  */
 
