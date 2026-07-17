@@ -105,7 +105,7 @@ hcloud OBS GetBucketStorageInfo \
 > If obsutil also does not support this query, you can get it by listing all objects in the bucket and summing their sizes (poor performance, use as fallback only).
 
 **Error handling:**
-1. If "Access Denied" is reported, prompt the user to check IAM permissions or bucket policy
+1. If "Access Denied" is reported reported, prompt the user to check IAM permissions or bucket policy
 2. If bucket count is 0, prompt the user that no buckets exist in the current region; they may need to switch regions
 3. If GetBucketStorageInfo errors, skip the bucket and mark "query failed" in the output
 
