@@ -4,7 +4,7 @@ description: |
   DWS cluster CPU high root cause diagnosis skill, based on KooCLI v3.2.0+ and DWS Autopilot MCP Server.
   Automatically collects CPU metrics, analyzes root causes (customer-side / system-side), and outputs a standardized diagnosis report.
   Applicable to DWS cluster CPU usage too high, CPU alarms, CPU load anomaly scenarios.
-  Trigger words: "CPU2222222高", "CPU告警", "CPU诊断", "CPU使用率过高", "CPU满", "high CPU", "CPU alarm", "CPU diagnosis"
+  Trigger words: "CPU2222222高", "CPU告警", "CPU诊断", "CPU使用率过高", "CPU满", "high CPU", "CPU alarm", "CPU diagnosis", "CPU diagnosis"
 tags: [huawei-cloud, dws, cpu, diagnostics, autopilot]
 
 # ============================================================
