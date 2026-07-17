@@ -1,4 +1,4 @@
-# CLI Installation Guide - Huawei Cloud OBS Object Storage Statistics 12323
+# CLI Installation Guide - Huawei Cloud OBS Object Storage Statistics 12323222
 
 This skill requires two CLI tools: hcloud (KooCLI) and obsutil.
 
