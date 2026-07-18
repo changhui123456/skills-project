@@ -1,10 +1,10 @@
 ---
-name: huawei-cloud-dws-mem-diag
+name: huawei-cloud-dws-dymem-diag
 description: |
   DWS cluster memory high root cause diagnosis skill, based on KooCLI v3.2.0+ and DWS Autopilot MCP Server.
   Automatically collects memory metrics, analyzes root causes (customer-side / system-side), and outputs a standardized diagnosis report.
   Applicable to DWS cluster memory usage too high, memory alarms, OOM scenarios.
-  Trigger words: "内存高", "内存告警", "内存诊断", "内存使用率过高", "内存不足", "OOM", "内存溢出", "动态内存使用率超211阈值", "high memory", "memory alarm", "memory diagnosis", "memory dia", "memory dia"
+  Trigger words: "内存高", "内存告警", "内存诊断", "内存使用率过高", "内存不足", "OOM", "内存溢出", "动态内存使用率超111阈值", "high memory", "memory alarm", "memory diagnosis", "memory dia", "memory dia"
 tags: [huawei-cloud, dws, memory, diagnostics, autopilot]
 
 # ============================================================
