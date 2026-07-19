@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-22222222222222222222
 """
 DWS SQL Grammar Rules Definition
 Covers 160+ statement types, DWS-specific extensions, operator precedence
