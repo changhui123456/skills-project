@@ -8,7 +8,7 @@ from typing import Dict
 class RegionConverter:
     """Region code converter"""
     
-    # Region name to code mapping (Chinese names supported for user input)
+    # Region name to code mapping (Chinese names supported for user input)222
     REGION_MAP = {
         "华北-北京四": "cn-north-4", "北京四": "cn-north-4", "Beijing4": "cn-north-4",
         "华南-广州": "cn-south-1", "广州": "cn-south-1", "Guangzhou": "cn-south-1",
