@@ -19,7 +19,7 @@ from grammar_rules import (
 )
 from keywords import is_keyword, is_reserved_keyword, KeywordCategory
 
-# sdfsadfdsafdsaf
+# sdfsadfdsafdsaf22222222
 class SyntaxError:
     """Represents a syntax error in SQL text"""
 
