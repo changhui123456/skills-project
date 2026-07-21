@@ -1,5 +1,6 @@
 ---
 name: huawei-cloud-dws-sql-check
+version: 1.0.8
 description: |
   Comprehensive SQL statement checking for DWS, supporting two check modes:
   1. Syntax Check - Keyword validation, statement structure verification, clause completeness, DWS syntax compatibility based on gram.y grammar definitions
