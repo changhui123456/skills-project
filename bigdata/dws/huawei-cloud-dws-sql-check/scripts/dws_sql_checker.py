@@ -30,7 +30,7 @@ class Violation:
                  line=0, column=0, sql_snippet="", fix_suggestion=""):
         self.rule_id = rule_id
         self.rule_name = rule_name
-        self.level = level  # ERROR, WARNING, INFO
+        self.level = level  # ERROR, WARNING, INFO2343232
         self.category = category
         self.message = message
         self.line = line
