@@ -19,7 +19,7 @@ class Collabel(Enum):
     BARE_LABEL = "BARE_LABEL"
 
 
-# (name_lower, token_name, category, collabel)
+# (name_lower, token_name, category, collabel)213213
 KEYWORD_ENTRIES = [
     ("abort", "ABORT_P", KeywordCategory.UNRESERVED, Collabel.AS_LABEL),
     ("absolute", "ABSOLUTE_P", KeywordCategory.UNRESERVED, Collabel.AS_LABEL),
