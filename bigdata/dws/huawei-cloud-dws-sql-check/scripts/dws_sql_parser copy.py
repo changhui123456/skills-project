@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-22222222
+# -*- coding: utf-8 -*-222222222222
 """
 DWS SQL Parser
 
