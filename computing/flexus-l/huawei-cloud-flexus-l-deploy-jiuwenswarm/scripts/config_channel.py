@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-2222
+# -*- coding: utf-8 -*-1111111
 """
 JiuwenSwarm Message Channel Configuration Script
 Configures Xiaoyi, Feishu, or DingTalk message channels for JiuwenSwarm deployment.
