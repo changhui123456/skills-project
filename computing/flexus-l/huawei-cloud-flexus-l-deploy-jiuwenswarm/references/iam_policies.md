@@ -1,6 +1,6 @@
 # IAM Permission Policies - JiuwenSwarm Deployment
 
-## Permission Failure Handling Process (MUST)23432
+## Permission Failure Handling Process (MUST)
 
 When any command fails due to permission errors, follow this process:
 
