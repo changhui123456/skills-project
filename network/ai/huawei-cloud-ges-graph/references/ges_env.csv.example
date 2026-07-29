@@ -13,7 +13,7 @@ region,cn-north-7
 # AKSK认证
 access_key,your_access_key
 secret_key,your_secret_key
-# 用户名密码认证
+# 用户名密码认证（加密存储，放到自己的环境变量中）
 username,your_username
 password,your_password
 domain_name,your_domain_name
