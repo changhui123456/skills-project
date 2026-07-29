@@ -1,3 +1,4 @@
 # skills-project
 
-> 📊 **[贡献看板](http://manager.skills.topxtopx.com)** — 点击查看贡献排行榜
+[![Dashboard](http://manager.skills.topxtopx.com/dashboard-badge.svg)](http://manager.skills.topxtopx.com)
+
