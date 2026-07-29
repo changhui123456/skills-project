@@ -1,6 +1,6 @@
 ---
 name: huawei-cloud-obs-stats
-version: 1.0.8
+version: 1.0.10
 description: |
   Query Huawei Cloud OBS (Object Storage Service) statistics: list buckets with capacity and object counts, query extranet/intranet download traffic with month-over-month comparison, and query total requests with month-over-month comparison.
   Use this skill when the user wants to: (1) list OBS buckets and check their storage capacity and object count, (2) query download traffic with MoM comparison, (3) query request counts with MoM comparison.
