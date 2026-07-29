@@ -1,7 +1,7 @@
 ---
 name: huawei-cloud-ges-graph
 description: |
-version: 1.0.8
+version: 1.0.9
   Provides access guide for Huawei Cloud Graph Database GES service.
   Covers Cypher queries, GQL queries, schema/label management,
   summary info queries, graph data editing and more. Use this skill when users
